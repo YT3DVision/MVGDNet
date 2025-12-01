@@ -1,6 +1,7 @@
 # MVGDNet: A Novel Motion-aware Video Glass Surface Detection Network (AAAI-2026)
 
-## Citation: Yiwei Lu, Hao Huang, Tao Yan*, "MVGDNet: A Novel Motion-aware Video Glass Surface Detection Network", Proc. AAAI 2026.
+## Citation: 
+Yiwei Lu, Hao Huang, Tao Yan*, "MVGDNet: A Novel Motion-aware Video Glass Surface Detection Network", Proc. AAAI 2026.
 
 ### TODO
 
