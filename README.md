@@ -12,7 +12,7 @@ We will release our code and dataset as soon as possible.
 
 ### Results
 
-**Quantitative Results on MVGD-D**
+**Quantitative Results**
 
 ![dingliang](/fig/quan_result.png)
 
@@ -23,7 +23,6 @@ We will release our code and dataset as soon as possible.
 **Qualitative Results on MVGD-D**
 
 ![VGSD-D](/fig/result_VGSD_D.png)
-
 
 ## Acknowledgement
 
