@@ -11,11 +11,15 @@ We will release our code and dataset as soon as possible.
 
 ### Results
 
-**Results on MVGD-D**
+**Quantitative Results on MVGD-D**
+
+![dingliang](/fig/quan_result.png)
+
+**Qualitative Results on MVGD-D**
 
 ![MVGD-D](/fig/result_MVGD_D.png)
 
-**Results on MVGD-D**
+**Qualitative Results on MVGD-D**
 
 ![VGSD-D](/fig/result_VGSD_D.png)
 
