@@ -9,6 +9,7 @@ Yiwei Lu, Hao Huang, Tao Yan*, "MVGDNet: A Novel Motion-aware Video Glass Surfac
 
 ### TODO
 
+Our paper is available at arXiv: <a href="https://doi.org/10.48550/arXiv.2601.13715">https://doi.org/10.48550/arXiv.2601.13715</a>.
 We will release our code and dataset as soon as possible.
 
 ### pipeline
